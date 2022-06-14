@@ -1,0 +1,10 @@
+C:\Users\succe\source\repos\Avtosalon\bin\Debug\Avtosalon.exe.config
+C:\Users\succe\source\repos\Avtosalon\bin\Debug\Avtosalon.exe
+C:\Users\succe\source\repos\Avtosalon\bin\Debug\Avtosalon.pdb
+C:\Users\succe\source\repos\Avtosalon\obj\Debug\Avtosalon.csprojAssemblyReference.cache
+C:\Users\succe\source\repos\Avtosalon\obj\Debug\Avtosalon.Form1.resources
+C:\Users\succe\source\repos\Avtosalon\obj\Debug\Avtosalon.Properties.Resources.resources
+C:\Users\succe\source\repos\Avtosalon\obj\Debug\Avtosalon.csproj.GenerateResource.cache
+C:\Users\succe\source\repos\Avtosalon\obj\Debug\Avtosalon.csproj.CoreCompileInputs.cache
+C:\Users\succe\source\repos\Avtosalon\obj\Debug\Avtosalon.exe
+C:\Users\succe\source\repos\Avtosalon\obj\Debug\Avtosalon.pdb
